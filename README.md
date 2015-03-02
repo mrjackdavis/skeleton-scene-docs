@@ -6,4 +6,4 @@ These experiences are generated using **renderers**. A **Renderer** is a standal
 
 These renderers are orchestrated by the main Skeleton Scene app, which will live *on the line*.
 
-For more on how Skeleton Scene works, check out the [[architecture|Architecture]] section.
+For more on how Skeleton Scene works, check out the [architecture](https://github.com/mrjackdavis/scene-skeleton-docs/blob/master/architecture.md) section.
