@@ -1,4 +1,4 @@
-# What is this?
+# Skeleton Scene
 
 Skeleton scene is an app that gives people the ability to experience their data, any data, in various ways.
 
