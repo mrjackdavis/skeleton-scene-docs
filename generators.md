@@ -6,9 +6,9 @@ For now, this list is comprised of generators built alongside Skeleton Scene. Ho
 
 The following generators are considered incomplete, but are being worked on.
 
-### [Fractal](https://github.com/mrjackdavis/skeleton-scene-generator-fractal)
+### [Snowflake](https://github.com/mrjackdavis/skeleton-scene-generator-fractal)
 
-The fractal generator was the first to be created. There are many fractals one can create, so I expect this to get a more specific name later on. It is intended to create a very abstract image, not particularly related to the input. Just a representation of it.
+Originally named `fractal generator`, Snowflake was the first to be created. The term Snowflake was coined by Nicola Livingstone. Snowflake generates a relatively abstract, artistic interpretation of any type of data.
 
 ## Todo
 
@@ -21,3 +21,7 @@ This generator would return the colour data of the input in graph format. This w
 ### Songify
 
 Songify would turn the input into an abstract song. Input would determine key, tempo and notes.
+
+### Toast
+
+'Toast' a website by burning a screenshot of it into bread.
